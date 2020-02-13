@@ -1,0 +1,1 @@
+To add a new tail number to download, add a new entry under the colum "Aircraft Tail Number"
