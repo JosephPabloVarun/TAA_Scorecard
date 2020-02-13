@@ -7,4 +7,4 @@ Then run program using main.xaml
 Downloaded files will be saved to 'Output\PTMD' folder
 Then the files will be consolidated and placed in 'Output' folder with the date
 
-This version copys over cell formatting such as highlights, however is much slower (4x slower during consolidation only)
+This version runs faster however does not copy over cell formatting such as highlights
