@@ -1597,15 +1597,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SA16\\.nuget\\packages\\": {}
+    "C:\\Users\\SA03\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "APU Scorecard",
-      "projectName": "APU Scorecard",
-      "projectPath": "C:\\Users\\SA16\\Desktop\\APU_ScoreCard_ExcelConsolidationOld\\.local",
-      "packagesPath": "C:\\Users\\SA16\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SA16\\Desktop\\APU_ScoreCard_ExcelConsolidationOld\\.local"
+      "projectUniqueName": "APU Scorecard old",
+      "projectName": "APU Scorecard old",
+      "projectPath": "C:\\Users\\SA03\\Desktop\\LEONARD\\GitHub\\TAA_Scorecard\\.local",
+      "packagesPath": "C:\\Users\\SA03\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SA03\\Desktop\\LEONARD\\GitHub\\TAA_Scorecard\\.local"
     },
     "frameworks": {
       "net461": {
