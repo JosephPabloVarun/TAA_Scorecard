@@ -1,6 +1,6 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="498.666666666667,455.333333333333" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="498,492" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
-    <scg:List x:TypeArguments="x:String" Capacity="23">
+    <scg:List x:TypeArguments="x:String" Capacity="46">
       <x:String>System.Activities</x:String>
       <x:String>System.Activities.Statements</x:String>
       <x:String>System.Activities.Expressions</x:String>
@@ -24,10 +24,11 @@
       <x:String>System.Windows.Markup</x:String>
       <x:String>UiPath.Excel</x:String>
       <x:String>System.Xml.Serialization</x:String>
+      <x:String>Microsoft.VisualBasic.CompilerServices</x:String>
     </scg:List>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
-    <scg:List x:TypeArguments="AssemblyReference" Capacity="19">
+    <scg:List x:TypeArguments="AssemblyReference" Capacity="38">
       <AssemblyReference>System.Activities</AssemblyReference>
       <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
       <AssemblyReference>mscorlib</AssemblyReference>
@@ -47,17 +48,18 @@
       <AssemblyReference>System.ServiceModel</AssemblyReference>
       <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
       <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="478.666666666667,395.333333333333" sap2010:WorkflowViewState.IdRef="Sequence_72">
+  <Sequence sap:VirtualizedContainerService.HintSize="478,392" sap2010:WorkflowViewState.IdRef="Sequence_72">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:BlockUserInput TimeoutMS="{x:Null}" sap2010:Annotation.AnnotationText="Prevent user input from messing up selectors during online portion" BlockType="All" DisplayName="Block User Input" sap:VirtualizedContainerService.HintSize="436.666666666667,303.333333333333" sap2010:WorkflowViewState.IdRef="BlockUserInput_1" KeyModifiers="Alt" Keys="f4" SpecialKey="True">
+    <ui:BlockUserInput TimeoutMS="{x:Null}" sap2010:Annotation.AnnotationText="Prevent user input from messing up selectors during online portion" BlockType="All" DisplayName="Block User Input" sap:VirtualizedContainerService.HintSize="436,300" sap2010:WorkflowViewState.IdRef="BlockUserInput_1" KeyModifiers="Alt" Keys="f4" SpecialKey="True">
       <ui:BlockUserInput.Body>
-        <Sequence sap:VirtualizedContainerService.HintSize="242,144.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_71">
+        <Sequence sap:VirtualizedContainerService.HintSize="242,143" sap2010:WorkflowViewState.IdRef="Sequence_71">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -76,7 +78,7 @@
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                 <av:Point x:Key="ShapeLocation">270,2.5</av:Point>
-                <av:Size x:Key="ShapeSize">60,74.6666666666667</av:Size>
+                <av:Size x:Key="ShapeSize">60,75</av:Size>
                 <av:PointCollection x:Key="ConnectorLocation">300,77.1666666666667 300,102.666666666667 310,102.666666666667</av:PointCollection>
                 <x:Double x:Key="Width">630</x:Double>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
@@ -89,11 +91,11 @@
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <av:Point x:Key="ShapeLocation">210,102.666666666667</av:Point>
-                  <av:Size x:Key="ShapeSize">200,114.666666666667</av:Size>
-                  <av:PointCollection x:Key="ConnectorLocation">310,217.333333333334 310,235.333333333333</av:PointCollection>
+                  <av:Size x:Key="ShapeSize">200,108</av:Size>
+                  <av:PointCollection x:Key="ConnectorLocation">310,210.666666666667 310,235.333333333333</av:PointCollection>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <Sequence sap2010:Annotation.AnnotationText="Dynamic filepath establish, create log folder and file" DisplayName="Initialise" sap:VirtualizedContainerService.HintSize="200,114.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_1">
+              <Sequence sap2010:Annotation.AnnotationText="Dynamic filepath establish, create log folder and file" DisplayName="Initialise" sap:VirtualizedContainerService.HintSize="200,108" sap2010:WorkflowViewState.IdRef="Sequence_1">
                 <Sequence.Variables>
                   <Variable x:TypeArguments="x:Boolean" Name="bPathExists" />
                 </Sequence.Variables>
@@ -288,11 +290,11 @@
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <av:Point x:Key="ShapeLocation">210,235.333333333333</av:Point>
-                      <av:Size x:Key="ShapeSize">200,69.3333333333333</av:Size>
-                      <av:PointCollection x:Key="ConnectorLocation">310,304.666666666667 310,325.333333333333</av:PointCollection>
+                      <av:Size x:Key="ShapeSize">200,66</av:Size>
+                      <av:PointCollection x:Key="ConnectorLocation">310,301.333333333333 310,325.333333333333</av:PointCollection>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <Sequence DisplayName="Try read config" sap:VirtualizedContainerService.HintSize="200,69.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                  <Sequence DisplayName="Try read config" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_4">
                     <sap:WorkflowViewStateService.ViewState>
                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -412,11 +414,11 @@
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <av:Point x:Key="ShapeLocation">210,325.333333333333</av:Point>
-                          <av:Size x:Key="ShapeSize">200,69.3333333333333</av:Size>
-                          <av:PointCollection x:Key="ConnectorLocation">310,394.666666666666 310,443.333333333333</av:PointCollection>
+                          <av:Size x:Key="ShapeSize">200,66</av:Size>
+                          <av:PointCollection x:Key="ConnectorLocation">310,391.333333333333 310,443.333333333333</av:PointCollection>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <Sequence DisplayName="Online Honeywell Process" sap:VirtualizedContainerService.HintSize="200,69.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_2">
+                      <Sequence DisplayName="Online Honeywell Process" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_2">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -1007,10 +1009,10 @@
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <av:Point x:Key="ShapeLocation">210,443.333333333333</av:Point>
-                              <av:Size x:Key="ShapeSize">200,69.3333333333333</av:Size>
+                              <av:Size x:Key="ShapeSize">200,66</av:Size>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
-                          <Sequence DisplayName="Local file processing" sap:VirtualizedContainerService.HintSize="200,69.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_62">
+                          <Sequence DisplayName="Local file processing" sap:VirtualizedContainerService.HintSize="242,442" sap2010:WorkflowViewState.IdRef="Sequence_62">
                             <Sequence.Variables>
                               <Variable x:TypeArguments="s:String[]" Name="strA_ptmdFilesList" />
                               <Variable x:TypeArguments="sd:DataTable" Name="dtAPU" />
@@ -1020,7 +1022,7 @@
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <Sequence DisplayName="Log Start" sap:VirtualizedContainerService.HintSize="200,69.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_65">
+                            <Sequence DisplayName="Log Start" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_65">
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -1037,7 +1039,7 @@
                               </Assign>
                               <ui:AppendLine DisplayName="Append Line" FileName="[strLogPath]" sap:VirtualizedContainerService.HintSize="334,133.333333333333" sap2010:WorkflowViewState.IdRef="AppendLine_27" Text="[System.DateTime.Now.ToString()+ &quot;: Attempting consolidate downloaded APU excel&quot;]" />
                             </Sequence>
-                            <Sequence sap2010:Annotation.AnnotationText="Unfortunately excel application scope must be visible for send hotkey to work" DisplayName="Consolidate downloaded excel" sap:VirtualizedContainerService.HintSize="200,148" sap2010:WorkflowViewState.IdRef="Sequence_66">
+                            <Sequence sap2010:Annotation.AnnotationText="Unfortunately excel application scope must be visible for send hotkey to work" DisplayName="Consolidate downloaded excel" sap:VirtualizedContainerService.HintSize="604,1648" sap2010:WorkflowViewState.IdRef="Sequence_66">
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -1045,7 +1047,7 @@
                                   <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
                                 </scg:Dictionary>
                               </sap:WorkflowViewStateService.ViewState>
-                              <Assign DisplayName="Get List of excel files downloaded" sap:VirtualizedContainerService.HintSize="304.666666666667,62" sap2010:WorkflowViewState.IdRef="Assign_27">
+                              <Assign DisplayName="Get List of excel files downloaded" sap:VirtualizedContainerService.HintSize="562,60" sap2010:WorkflowViewState.IdRef="Assign_27">
                                 <Assign.To>
                                   <OutArgument x:TypeArguments="s:String[]">[strA_ptmdFilesList]</OutArgument>
                                 </Assign.To>
@@ -1053,21 +1055,31 @@
                                   <InArgument x:TypeArguments="s:String[]">[Directory.GetFiles(strOutputPath+"\PTMD\")]</InArgument>
                                 </Assign.Value>
                               </Assign>
-                              <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="For Each Excel File Downloaded" sap:VirtualizedContainerService.HintSize="551.333333333333,1164" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[strA_ptmdFilesList]">
+                              <ui:ForEach x:TypeArguments="x:Object" CurrentIndex="{x:Null}" DisplayName="For Each Excel File Downloaded" sap:VirtualizedContainerService.HintSize="562,1425" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[strA_ptmdFilesList]">
                                 <ui:ForEach.Body>
                                   <ActivityAction x:TypeArguments="x:Object">
                                     <ActivityAction.Argument>
                                       <DelegateInArgument x:TypeArguments="x:Object" Name="file" />
                                     </ActivityAction.Argument>
-                                    <Sequence DisplayName="Read APU and append to consolidated" sap:VirtualizedContainerService.HintSize="514.666666666667,1025.33333333333" sap2010:WorkflowViewState.IdRef="Sequence_64">
+                                    <Sequence DisplayName="Read APU and append to consolidated" sap:VirtualizedContainerService.HintSize="526,1291" sap2010:WorkflowViewState.IdRef="Sequence_64">
                                       <sap:WorkflowViewStateService.ViewState>
                                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                           <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                         </scg:Dictionary>
                                       </sap:WorkflowViewStateService.ViewState>
-                                      <ui:AppendLine DisplayName="Append Line" FileName="[strLogPath]" sap:VirtualizedContainerService.HintSize="472.666666666667,134.666666666667" sap2010:WorkflowViewState.IdRef="AppendLine_28" Text="[System.DateTime.Now.ToString()+ &quot;: Attempting open &quot;+ file.toString.Split(&quot;\&quot;.ToCharArray)( file.ToString.Split(&quot;\&quot;.ToCharArray).Length-1)]" />
-                                      <TryCatch DisplayName="Try Open and read APU" sap:VirtualizedContainerService.HintSize="472.666666666667,758.666666666667" sap2010:WorkflowViewState.IdRef="TryCatch_11">
+                                      <If sap2010:Annotation.AnnotationText="Without this, process will break when it opens a file in excel that is not xls" Condition="[file.ToString.Substring(file.ToString.Length-3,3) = &quot;xls&quot;]" DisplayName="Check that file is a .xls file and not some other weird file extensions" sap:VirtualizedContainerService.HintSize="484,239" sap2010:WorkflowViewState.IdRef="If_7">
+                                        <sap:WorkflowViewStateService.ViewState>
+                                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                            <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+                                          </scg:Dictionary>
+                                        </sap:WorkflowViewStateService.ViewState>
+                                        <If.Else>
+                                          <ui:Continue sap:VirtualizedContainerService.HintSize="200,22" sap2010:WorkflowViewState.IdRef="Continue_1" />
+                                        </If.Else>
+                                      </If>
+                                      <ui:AppendLine DisplayName="Append Line" FileName="[strLogPath]" sap:VirtualizedContainerService.HintSize="484,132" sap2010:WorkflowViewState.IdRef="AppendLine_28" Text="[System.DateTime.Now.ToString()+ &quot;: Attempting open &quot;+ file.toString.Split(&quot;\&quot;.ToCharArray)( file.ToString.Split(&quot;\&quot;.ToCharArray).Length-1)]" />
+                                      <TryCatch DisplayName="Try Open and read APU" sap:VirtualizedContainerService.HintSize="484,748" sap2010:WorkflowViewState.IdRef="TryCatch_11">
                                         <sap:WorkflowViewStateService.ViewState>
                                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -1075,13 +1087,13 @@
                                           </scg:Dictionary>
                                         </sap:WorkflowViewStateService.ViewState>
                                         <TryCatch.Try>
-                                          <ui:ExcelApplicationScope Password="{x:Null}" DisplayName="Open and read APU" sap:VirtualizedContainerService.HintSize="434,520.666666666667" sap2010:WorkflowViewState.IdRef="ExcelApplicationScope_2" WorkbookPath="[file.ToString]">
+                                          <ui:ExcelApplicationScope Password="{x:Null}" DisplayName="Open and read APU" sap:VirtualizedContainerService.HintSize="434,520" sap2010:WorkflowViewState.IdRef="ExcelApplicationScope_2" WorkbookPath="[file.ToString]">
                                             <ui:ExcelApplicationScope.Body>
                                               <ActivityAction x:TypeArguments="ui:WorkbookApplication">
                                                 <ActivityAction.Argument>
                                                   <DelegateInArgument x:TypeArguments="ui:WorkbookApplication" Name="ExcelWorkbookScope" />
                                                 </ActivityAction.Argument>
-                                                <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,412" sap2010:WorkflowViewState.IdRef="Sequence_67">
+                                                <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,411" sap2010:WorkflowViewState.IdRef="Sequence_67">
                                                   <Sequence.Variables>
                                                     <Variable x:TypeArguments="x:String" Name="strSheet" />
                                                     <Variable x:TypeArguments="sd:DataTable" Name="dtAPU" />
@@ -1091,9 +1103,9 @@
                                                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                     </scg:Dictionary>
                                                   </sap:WorkflowViewStateService.ViewState>
-                                                  <ui:CommentOut DisplayName="Old method" sap:VirtualizedContainerService.HintSize="334,52.6666666666667" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+                                                  <ui:CommentOut DisplayName="Old method" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="CommentOut_1">
                                                     <ui:CommentOut.Body>
-                                                      <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,212.666666666667" sap2010:WorkflowViewState.IdRef="Sequence_73">
+                                                      <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,213" sap2010:WorkflowViewState.IdRef="Sequence_73">
                                                         <sap:WorkflowViewStateService.ViewState>
                                                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -1293,7 +1305,7 @@
                                 </ui:ForEach.Body>
                               </ui:ForEach>
                             </Sequence>
-                            <Sequence DisplayName="Log End" sap:VirtualizedContainerService.HintSize="200,69.3333333333333" sap2010:WorkflowViewState.IdRef="Sequence_70">
+                            <Sequence DisplayName="Log End" sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_70">
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
