@@ -1,6 +1,6 @@
 {
-  "name": "APU Scorecard old",
-  "description": "APU Scorecard old method of consolidation, faster but loses cell colour and formatting",
+  "name": "Filedownloader",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.2]",

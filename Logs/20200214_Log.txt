@@ -1,0 +1,492 @@
+﻿02/14/2020 13:48:51: Log File Created, Initialising...
+02/14/2020 13:48:51: Initialisation done in: 00:00:03.0680064
+02/14/2020 13:48:51: Reading Input Config File
+02/14/2020 13:48:52: Input Config read successfully in: 00:00:01.0937954
+02/14/2020 13:48:52: Attempting consolidate downloaded APU excel
+02/14/2020 13:48:52: Attempting read 9M-.xls
+02/14/2020 13:48:52: Reading 9M-.xls successful
+02/14/2020 13:48:52: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:48:53: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:48:53: Attempting read HS-.xls
+02/14/2020 13:48:53: Reading HS-.xls successful
+02/14/2020 13:48:53: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:48:53: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:48:53: Attempting read PC.xls
+02/14/2020 13:48:54: Reading PC.xls successful
+02/14/2020 13:48:54: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:48:54: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:48:54: Attempting read PK-.xls
+02/14/2020 13:48:54: Reading PK-.xls successful
+02/14/2020 13:48:54: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:48:54: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:48:54: Attempting read VT-.xls
+02/14/2020 13:48:55: Reading VT-.xls successful
+02/14/2020 13:48:55: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:48:55: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:48:55: Consolidate APU excel successfully in: 00:00:02.8794103
+----------End of Program----------
+02/14/2020 13:49:56: Initialising...
+02/14/2020 13:49:56: Initialisation done in: 00:00:03.0537367
+02/14/2020 13:49:56: Reading Input Config File
+02/14/2020 13:49:57: Input Config read successfully in: 00:00:00.9629777
+02/14/2020 13:49:57: Attempting consolidate downloaded APU excel
+02/14/2020 13:49:57: Attempting read 9M-.xls
+02/14/2020 13:49:57: Reading 9M-.xls successful
+02/14/2020 13:49:57: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:49:58: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:49:58: Attempting read HS-.xls
+02/14/2020 13:49:58: Reading HS-.xls successful
+02/14/2020 13:49:58: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:49:58: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:49:59: Attempting read PC.xls
+02/14/2020 13:49:59: Reading PC.xls successful
+02/14/2020 13:49:59: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:49:59: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:49:59: Attempting read PK-.xls
+02/14/2020 13:49:59: Reading PK-.xls successful
+02/14/2020 13:49:59: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:49:59: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:50:00: Attempting read VT-.xls
+02/14/2020 13:50:00: Reading VT-.xls successful
+02/14/2020 13:50:00: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:50:00: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:50:00: Consolidate APU excel successfully in: 00:00:03.1436766
+----------End of Program----------
+02/14/2020 13:51:24: Initialising...
+02/14/2020 13:51:24: Initialisation done in: 00:00:03.0455895
+02/14/2020 13:51:24: Reading Input Config File
+02/14/2020 13:51:25: Input Config read successfully in: 00:00:00.9034588
+02/14/2020 13:51:25: Attempting consolidate downloaded APU excel
+02/14/2020 13:51:25: Attempting read 9M-.xls
+02/14/2020 13:51:25: Reading 9M-.xls successful
+02/14/2020 13:51:25: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:51:26: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:51:26: Attempting read HS-.xls
+02/14/2020 13:51:26: Reading HS-.xls successful
+02/14/2020 13:51:26: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:51:27: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:51:27: Attempting read PC.xls
+02/14/2020 13:51:27: Reading PC.xls successful
+02/14/2020 13:51:27: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:51:27: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:51:27: Attempting read PK-.xls
+02/14/2020 13:51:27: Reading PK-.xls successful
+02/14/2020 13:51:27: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:51:28: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:51:28: Attempting read VT-.xls
+02/14/2020 13:51:28: Reading VT-.xls successful
+02/14/2020 13:51:28: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:51:28: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:51:28: Consolidate APU excel successfully in: 00:00:03.1317497
+----------End of Program----------
+02/14/2020 13:53:14: Initialising...
+02/14/2020 13:53:14: Initialisation done in: 00:00:03.0623000
+02/14/2020 13:53:14: Reading Input Config File
+02/14/2020 13:53:15: Input Config read successfully in: 00:00:01.0438521
+02/14/2020 13:53:15: Attempting consolidate downloaded APU excel
+02/14/2020 13:53:15: Attempting read 9M-.xls
+02/14/2020 13:53:15: Reading 9M-.xls successful
+02/14/2020 13:53:15: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:53:16: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:53:16: Attempting read HS-.xls
+02/14/2020 13:53:16: Reading HS-.xls successful
+02/14/2020 13:53:16: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:53:17: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:53:17: Attempting read PC.xls
+02/14/2020 13:53:17: Reading PC.xls successful
+02/14/2020 13:53:17: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:53:17: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:53:17: Attempting read PK-.xls
+02/14/2020 13:53:17: Reading PK-.xls successful
+02/14/2020 13:53:17: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:53:18: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:53:18: Attempting read VT-.xls
+02/14/2020 13:53:18: Reading VT-.xls successful
+02/14/2020 13:53:18: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:53:18: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:53:18: Consolidate APU excel successfully in: 00:00:03.1117682
+----------End of Program----------
+02/14/2020 13:56:51: Initialising...
+02/14/2020 13:56:51: Initialisation done in: 00:00:03.0563143
+02/14/2020 13:56:51: Reading Input Config File
+02/14/2020 13:56:51: Read input failed with exception - System.InvalidOperationException: Could not open the specified workbook. Make sure there is no other wokbook with the same name already opened.
+   at UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.WorkbookApplication.Initialize(Application excelApp, WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.Activities.ExcelApplicationScope.<>c.<.ctor>b__48_0(WorkbookArguments args)
+   at UiPath.Excel.Activities.ExcelApplicationScope.Execute(NativeActivityContext context)
+   at System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/14/2020 13:56:51: Attempting consolidate downloaded APU excel
+02/14/2020 13:56:51: Attempting read 9M-.xls
+02/14/2020 13:56:52: Reading 9M-.xls successful
+02/14/2020 13:56:52: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:56:53: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:56:53: Attempting read HS-.xls
+02/14/2020 13:56:53: Reading HS-.xls successful
+02/14/2020 13:56:53: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:56:54: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:56:54: Attempting read PC.xls
+02/14/2020 13:56:54: Reading PC.xls successful
+02/14/2020 13:56:54: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:56:55: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:56:55: Attempting read PK-.xls
+02/14/2020 13:56:55: Reading PK-.xls successful
+02/14/2020 13:56:56: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:56:56: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:56:56: Attempting read VT-.xls
+02/14/2020 13:56:56: Reading VT-.xls successful
+02/14/2020 13:56:57: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:56:57: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:56:57: Consolidate APU excel successfully in: 00:00:05.7364041
+----------End of Program----------
+02/14/2020 13:58:09: Initialising...
+02/14/2020 13:58:09: Initialisation done in: 00:00:03.0503752
+02/14/2020 13:58:09: Reading Input Config File
+02/14/2020 13:58:09: Read input failed with exception - System.InvalidOperationException: Could not open the specified workbook. Make sure there is no other wokbook with the same name already opened.
+   at UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.WorkbookApplication.Initialize(Application excelApp, WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.Activities.ExcelApplicationScope.<>c.<.ctor>b__48_0(WorkbookArguments args)
+   at UiPath.Excel.Activities.ExcelApplicationScope.Execute(NativeActivityContext context)
+   at System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/14/2020 13:58:09: Attempting consolidate downloaded APU excel
+02/14/2020 13:58:09: Attempting read 9M-.xls
+02/14/2020 13:58:10: Reading 9M-.xls successful
+02/14/2020 13:58:10: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:58:10: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:58:11: Attempting read HS-.xls
+02/14/2020 13:58:11: Reading HS-.xls successful
+02/14/2020 13:58:11: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:58:11: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:58:12: Attempting read PC.xls
+02/14/2020 13:58:12: Reading PC.xls successful
+02/14/2020 13:58:12: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:58:12: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:58:13: Attempting read PK-.xls
+02/14/2020 13:58:13: Reading PK-.xls successful
+02/14/2020 13:58:13: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:58:13: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:58:14: Attempting read VT-.xls
+02/14/2020 13:58:14: Reading VT-.xls successful
+02/14/2020 13:58:14: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 13:58:15: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 13:58:15: Consolidate APU excel successfully in: 00:00:05.5862588
+----------End of Program----------
+02/14/2020 14:01:31: Initialising...
+02/14/2020 14:01:31: Initialisation done in: 00:00:03.0475391
+02/14/2020 14:01:31: Reading Input Config File
+02/14/2020 14:01:32: Read input failed with exception - System.InvalidOperationException: Could not open the specified workbook. Make sure there is no other wokbook with the same name already opened.
+   at UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.WorkbookApplication.Initialize(Application excelApp, WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.Activities.ExcelApplicationScope.<>c.<.ctor>b__48_0(WorkbookArguments args)
+   at UiPath.Excel.Activities.ExcelApplicationScope.Execute(NativeActivityContext context)
+   at System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/14/2020 14:01:32: Attempting consolidate downloaded APU excel
+02/14/2020 14:01:32: Attempting read 9M-.xls
+02/14/2020 14:01:32: Reading 9M-.xls successful
+02/14/2020 14:01:32: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:01:33: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:01:33: Attempting read HS-.xls
+02/14/2020 14:01:33: Reading HS-.xls successful
+02/14/2020 14:01:34: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:01:34: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:01:34: Attempting read PC.xls
+02/14/2020 14:01:34: Reading PC.xls successful
+02/14/2020 14:01:35: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:01:35: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:01:35: Attempting read PK-.xls
+02/14/2020 14:01:36: Reading PK-.xls successful
+02/14/2020 14:01:36: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:01:36: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:01:36: Attempting read VT-.xls
+02/14/2020 14:01:37: Reading VT-.xls successful
+02/14/2020 14:01:37: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:01:37: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:01:37: Consolidate APU excel successfully in: 00:00:05.5651331
+----------End of Program----------
+02/14/2020 14:05:11: Initialising...
+02/14/2020 14:05:12: Initialisation done in: 00:00:03.0714299
+02/14/2020 14:05:12: Reading Input Config File
+02/14/2020 14:05:12: Read input failed with exception - System.InvalidOperationException: Could not open the specified workbook. Make sure there is no other wokbook with the same name already opened.
+   at UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.WorkbookApplication.Initialize(Application excelApp, WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.Activities.ExcelApplicationScope.<>c.<.ctor>b__48_0(WorkbookArguments args)
+   at UiPath.Excel.Activities.ExcelApplicationScope.Execute(NativeActivityContext context)
+   at System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/14/2020 14:05:12: Attempting consolidate downloaded APU excel
+02/14/2020 14:05:12: Attempting read 9M-.xls
+02/14/2020 14:05:12: Reading 9M-.xls successful
+02/14/2020 14:05:12: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:05:13: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:05:13: Attempting read HS-.xls
+02/14/2020 14:05:13: Reading HS-.xls successful
+02/14/2020 14:05:14: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:05:14: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:05:14: Attempting read PC.xls
+02/14/2020 14:05:14: Reading PC.xls successful
+02/14/2020 14:05:15: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:05:15: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:05:15: Attempting read PK-.xls
+02/14/2020 14:05:15: Reading PK-.xls successful
+02/14/2020 14:05:16: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:05:16: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:05:16: Attempting read VT-.xls
+02/14/2020 14:05:16: Reading VT-.xls successful
+02/14/2020 14:05:17: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:05:17: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:05:17: Consolidate APU excel successfully in: 00:00:05.3981485
+----------End of Program----------
+02/14/2020 14:06:04: Consolidate APU excel successfully in: 00:00:46.6003359
+02/14/2020 14:07:25: Initialising...
+02/14/2020 14:07:25: Initialisation done in: 00:00:03.0387515
+02/14/2020 14:07:25: Reading Input Config File
+02/14/2020 14:07:25: Read input failed with exception - System.InvalidOperationException: Could not open the specified workbook. Make sure there is no other wokbook with the same name already opened.
+   at UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.WorkbookApplication.Initialize(Application excelApp, WorkbookArguments args, Boolean onlyIfWorkbookExists)
+   at UiPath.Excel.Activities.ExcelApplicationScope.<>c.<.ctor>b__48_0(WorkbookArguments args)
+   at UiPath.Excel.Activities.ExcelApplicationScope.Execute(NativeActivityContext context)
+   at System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/14/2020 14:07:25: Attempting consolidate downloaded APU excel
+02/14/2020 14:07:25: Attempting read 9M-.xls
+02/14/2020 14:07:26: Reading 9M-.xls successful
+02/14/2020 14:07:26: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:07:27: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:07:27: Attempting read HS-.xls
+02/14/2020 14:07:28: Reading HS-.xls successful
+02/14/2020 14:07:28: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:07:28: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:07:28: Attempting read PC.xls
+02/14/2020 14:07:29: Reading PC.xls successful
+02/14/2020 14:07:29: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:07:29: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:07:30: Attempting read PK-.xls
+02/14/2020 14:07:30: Reading PK-.xls successful
+02/14/2020 14:07:30: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:07:30: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:07:31: Attempting read VT-.xls
+02/14/2020 14:07:31: Reading VT-.xls successful
+02/14/2020 14:07:32: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:07:32: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:07:32: Consolidate APU excel successfully in: 00:00:07.0246669
+----------End of Program----------
+02/14/2020 14:08:01: ----------End of Program----------
+02/14/2020 14:11:43: Initialising...
+02/14/2020 14:11:43: Initialisation done in: 00:00:03.0617319
+02/14/2020 14:11:43: Reading Input Config File
+02/14/2020 14:11:44: Input Config read successfully in: 00:00:00.9571088
+02/14/2020 14:11:44: Attempting consolidate downloaded APU excel
+02/14/2020 14:11:44: Attempting read 9M-.xls
+02/14/2020 14:11:44: Reading 9M-.xls successful
+02/14/2020 14:11:44: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:11:45: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:11:45: Attempting read HS-.xls
+02/14/2020 14:11:45: Reading HS-.xls successful
+02/14/2020 14:11:45: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:11:46: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:11:46: Attempting read PC.xls
+02/14/2020 14:11:46: Reading PC.xls successful
+02/14/2020 14:11:46: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:11:46: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:11:46: Attempting read PK-.xls
+02/14/2020 14:11:46: Reading PK-.xls successful
+02/14/2020 14:11:47: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:11:47: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:11:47: Attempting read VT-.xls
+02/14/2020 14:11:47: Reading VT-.xls successful
+02/14/2020 14:11:47: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:11:47: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:11:48: Consolidate APU excel successfully in: 00:00:03.4185732
+02/14/2020 14:12:51: Initialising...
+02/14/2020 14:12:51: Initialisation done in: 00:00:03.0548743
+02/14/2020 14:12:51: Reading Input Config File
+02/14/2020 14:12:52: Input Config read successfully in: 00:00:00.8502764
+02/14/2020 14:12:52: Attempting consolidate downloaded APU excel
+02/14/2020 14:12:52: Attempting read 9M-.xls
+02/14/2020 14:12:52: Reading 9M-.xls successful
+02/14/2020 14:12:52: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:12:53: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:12:53: Attempting read HS-.xls
+02/14/2020 14:12:53: Reading HS-.xls successful
+02/14/2020 14:12:53: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:12:53: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:12:53: Attempting read PC.xls
+02/14/2020 14:12:53: Reading PC.xls successful
+02/14/2020 14:12:54: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:12:54: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:12:54: Attempting read PK-.xls
+02/14/2020 14:12:54: Reading PK-.xls successful
+02/14/2020 14:12:54: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:12:54: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:12:54: Attempting read VT-.xls
+02/14/2020 14:12:54: Reading VT-.xls successful
+02/14/2020 14:12:55: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:12:55: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:12:55: Consolidate APU excel successfully in: 00:00:03.1287365
+02/14/2020 14:14:23: Initialising...
+02/14/2020 14:14:24: Initialisation done in: 00:00:03.0497067
+02/14/2020 14:14:24: Reading Input Config File
+02/14/2020 14:14:24: Input Config read successfully in: 00:00:00.8518868
+02/14/2020 14:14:24: Attempting consolidate downloaded APU excel
+02/14/2020 14:14:25: Attempting read 9M-.xls
+02/14/2020 14:14:25: Reading 9M-.xls successful
+02/14/2020 14:14:25: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:14:25: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:14:26: Attempting read HS-.xls
+02/14/2020 14:14:26: Reading HS-.xls successful
+02/14/2020 14:14:26: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:14:26: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:14:26: Attempting read PC.xls
+02/14/2020 14:14:26: Reading PC.xls successful
+02/14/2020 14:14:26: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:14:26: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:14:27: Attempting read PK-.xls
+02/14/2020 14:14:27: Reading PK-.xls successful
+02/14/2020 14:14:27: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:14:27: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:14:27: Attempting read VT-.xls
+02/14/2020 14:14:27: Reading VT-.xls successful
+02/14/2020 14:14:27: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:14:28: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:14:28: Consolidate APU excel successfully in: 00:00:03.2070574
+02/14/2020 14:14:29: Google Drive operations start
+02/14/2020 14:14:29: Attempting Log in Google Drive
+02/14/2020 14:15:03: Initialising...
+02/14/2020 14:15:03: Initialisation done in: 00:00:03.0495694
+02/14/2020 14:15:03: Reading Input Config File
+02/14/2020 14:15:04: Input Config read successfully in: 00:00:00.8453768
+02/14/2020 14:15:04: Attempting consolidate downloaded APU excel
+02/14/2020 14:15:04: Attempting read 9M-.xls
+02/14/2020 14:15:04: Reading 9M-.xls successful
+02/14/2020 14:15:04: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:15:05: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:15:05: Attempting read HS-.xls
+02/14/2020 14:15:05: Reading HS-.xls successful
+02/14/2020 14:15:05: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:15:05: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:15:06: Attempting read PC.xls
+02/14/2020 14:15:06: Reading PC.xls successful
+02/14/2020 14:15:06: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:15:06: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:15:06: Attempting read PK-.xls
+02/14/2020 14:15:06: Reading PK-.xls successful
+02/14/2020 14:15:06: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:15:07: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:15:07: Attempting read VT-.xls
+02/14/2020 14:15:07: Reading VT-.xls successful
+02/14/2020 14:15:07: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:15:07: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:15:07: Consolidate APU excel successfully in: 00:00:03.3139235
+02/14/2020 14:15:07: Google Drive operations start
+02/14/2020 14:15:09: Attempting Log in Google Drive
+02/14/2020 14:15:27: Google Drive Log in successfully in: 00:00:17.8918626
+02/14/2020 14:15:27: Attempt copy 20200214_APU_Consolidated.xlsx to Google Sheets
+02/14/2020 14:15:39: Copying 20200214_APU_Consolidated.xlsx successful in: 00:00:12.1149210
+02/14/2020 14:15:39: Attempt archiving uploaded consolidated excel
+02/14/2020 14:15:39: Archive uploaded consolidated excel successful in: 00:00:00.0239359
+02/14/2020 14:15:39: Attempt archiving uploaded consolidated excel
+02/14/2020 14:15:39: Archive uploaded consolidated excel successful in: 00:00:00.0129660
+02/14/2020 14:15:39: ----------End of Program----------
+02/14/2020 14:18:22: Initialising...
+02/14/2020 14:18:22: Initialisation done in: 00:00:03.0527875
+02/14/2020 14:18:22: Reading Input Config File
+02/14/2020 14:18:23: Input Config read successfully in: 00:00:00.9795947
+02/14/2020 14:18:23: Attempting consolidate downloaded APU excel
+02/14/2020 14:18:23: Attempting read 9M-.xls
+02/14/2020 14:18:23: Reading 9M-.xls successful
+02/14/2020 14:18:24: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:25: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:25: Attempting read HS-.xls
+02/14/2020 14:18:25: Reading HS-.xls successful
+02/14/2020 14:18:26: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:26: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:26: Attempting read PC.xls
+02/14/2020 14:18:26: Reading PC.xls successful
+02/14/2020 14:18:26: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:27: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:27: Attempting read PK-.xls
+02/14/2020 14:18:27: Reading PK-.xls successful
+02/14/2020 14:18:27: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:27: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:27: Attempting read VT-.xls
+02/14/2020 14:18:28: Reading VT-.xls successful
+02/14/2020 14:18:28: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:28: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:28: Consolidate APU excel successfully in: 00:00:04.9886418
+02/14/2020 14:18:29: Google Drive operations start
+02/14/2020 14:18:29: Attempting Log in Google Drive
+02/14/2020 14:18:43: Initialising...
+02/14/2020 14:18:43: Initialisation done in: 00:00:03.0498438
+02/14/2020 14:18:43: Reading Input Config File
+02/14/2020 14:18:44: Input Config read successfully in: 00:00:00.8382610
+02/14/2020 14:18:44: Attempting consolidate downloaded APU excel
+02/14/2020 14:18:44: Attempting read 9M-.xls
+02/14/2020 14:18:44: Reading 9M-.xls successful
+02/14/2020 14:18:44: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:45: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:45: Attempting read HS-.xls
+02/14/2020 14:18:45: Reading HS-.xls successful
+02/14/2020 14:18:45: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:45: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:45: Attempting read PC.xls
+02/14/2020 14:18:45: Reading PC.xls successful
+02/14/2020 14:18:46: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:46: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:46: Attempting read PK-.xls
+02/14/2020 14:18:46: Reading PK-.xls successful
+02/14/2020 14:18:46: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:46: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:46: Attempting read VT-.xls
+02/14/2020 14:18:46: Reading VT-.xls successful
+02/14/2020 14:18:46: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:18:47: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:18:47: Consolidate APU excel successfully in: 00:00:02.5622409
+02/14/2020 14:18:47: Google Drive operations start
+02/14/2020 14:18:48: Attempting Log in Google Drive
+02/14/2020 14:19:06: Google Drive Log in successfully in: 00:00:17.7128016
+02/14/2020 14:19:06: Attempt copy 20200214_APU_Consolidated.xlsx to Google Sheets
+02/14/2020 14:19:19: Copying 20200214_APU_Consolidated.xlsx successful in: 00:00:12.7402208
+02/14/2020 14:19:19: Attempt archiving uploaded consolidated excel
+02/14/2020 14:19:19: Archive uploaded consolidated excel successful in: 00:00:00.0156216
+02/14/2020 14:19:19: ----------End of Program----------
+02/14/2020 14:19:57: Initialising...
+02/14/2020 14:19:57: Initialisation done in: 00:00:03.0550541
+02/14/2020 14:19:57: Reading Input Config File
+02/14/2020 14:19:58: Input Config read successfully in: 00:00:00.8603623
+02/14/2020 14:19:58: Attempting consolidate downloaded APU excel
+02/14/2020 14:19:58: Attempting read 9M-.xls
+02/14/2020 14:19:58: Reading 9M-.xls successful
+02/14/2020 14:19:59: Attempting copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:19:59: Copy 9M-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:19:59: Attempting read HS-.xls
+02/14/2020 14:20:00: Reading HS-.xls successful
+02/14/2020 14:20:00: Attempting copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:20:00: Copy HS-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:20:00: Attempting read PC.xls
+02/14/2020 14:20:00: Reading PC.xls successful
+02/14/2020 14:20:00: Attempting copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:20:01: Copy PC.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:20:01: Attempting read PK-.xls
+02/14/2020 14:20:01: Reading PK-.xls successful
+02/14/2020 14:20:01: Attempting copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:20:01: Copy PK-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:20:01: Attempting read VT-.xls
+02/14/2020 14:20:01: Reading VT-.xls successful
+02/14/2020 14:20:02: Attempting copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls
+02/14/2020 14:20:02: Copy VT-.xls to C:\Users\SA03\Desktop\New folder\Output\20200214_APU_Consolidated.xls successful
+02/14/2020 14:20:02: Consolidate APU excel successfully in: 00:00:03.6964329
+02/14/2020 14:20:02: Google Drive operations start
+02/14/2020 14:20:03: Attempting Log in Google Drive
+02/14/2020 14:20:29: Google Drive Log in successfully in: 00:00:26.5753890
+02/14/2020 14:20:30: Attempt copy 20200214_APU_Consolidated.xlsx to Google Sheets
+02/14/2020 14:20:41: Copying 20200214_APU_Consolidated.xlsx successful in: 00:00:11.0835720
+02/14/2020 14:20:41: Attempt archiving uploaded consolidated excel
+02/14/2020 14:20:41: Archive uploaded consolidated excel successful in: 00:00:00.0156216
+02/14/2020 14:20:41: ----------End of Program----------

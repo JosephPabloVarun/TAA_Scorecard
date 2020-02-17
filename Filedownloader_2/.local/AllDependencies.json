@@ -1107,6 +1107,7 @@
       "path": "avalonedit/5.0.3",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "avalonedit.5.0.3.nupkg.sha512",
         "avalonedit.nuspec",
         "lib/Net35/ICSharpCode.AvalonEdit.dll",
@@ -1185,6 +1186,7 @@
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "extended.wpf.toolkit.2.8.0.nupkg.sha512",
         "extended.wpf.toolkit.nuspec",
         "lib/net35/WPFToolkit.dll",
@@ -1465,6 +1467,7 @@
       "path": "microsoft.exchange.webservices/2.2.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "doc/License Terms.rtf",
         "doc/README.htm",
         "doc/Redist.txt",
@@ -1550,7 +1553,6 @@
       "path": "newtonsoft.json/11.0.2",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -2175,11 +2177,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "APU Scorecard old",
-      "projectName": "APU Scorecard old",
-      "projectPath": "C:\\Users\\SA03\\Desktop\\LEONARD\\GitHub\\TAA_Scorecard\\.local",
+      "projectUniqueName": "Filedownloader",
+      "projectName": "Filedownloader",
+      "projectPath": "C:\\Users\\SA03\\Desktop\\LEONARD\\GitHub\\TAA_Scorecard\\Filedownloader_2\\.local",
       "packagesPath": "C:\\Users\\SA03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SA03\\Desktop\\LEONARD\\GitHub\\TAA_Scorecard\\.local"
+      "outputPath": "C:\\Users\\SA03\\Desktop\\LEONARD\\GitHub\\TAA_Scorecard\\Filedownloader_2\\.local"
     },
     "frameworks": {
       "net461": {
